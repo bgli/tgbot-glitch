@@ -14,5 +14,8 @@
   "license": "MIT",
   "dependencies": {
     "telegraf": "^3.6.7"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/bglibot"
   }
 }
